@@ -1,0 +1,24 @@
+Esta prueba está diseñada para poner a prueba tus habilidades de estilos css.
+
+Los requerimientos de la prueba es que dentro de un contenedor muestres los resultados con las siguentes
+características:
+
+1. En formato grid con 3 o 2 o 1 columnas/items según sea dektop, tablet o mobile.
+2. En formato línea, es decir que un solo item ocupe el ancho del contenedor.
+3. La caja de texto, el botón y cada item asignale un diseño personal con colores, tamaños, efectos, transiciones, etc.
+4. En caso de no encontrar resultados muestra un mensaje.
+5. Responsivo
+
+Notas:
+- El punto 1 y 2 se controlan por un click a un botón o div con estilo de botón.
+- La prueba está estructurada para que solo trabajes con un solo archivo main.less
+
+Plus:
+- Usar styled-components.
+- Poner un loader por cada petición.
+- Manipulación de errores.
+- scroll y display: fix para el input y botón
+
+
+#
+Responsivo
